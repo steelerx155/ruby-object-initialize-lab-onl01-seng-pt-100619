@@ -1,6 +1,14 @@
 class Person
- def initalize(Person)
-   @person = person
-
+ def initalize(name)
+   @name = name
+ end
+ 
+ def name=(name)
+   @name = name 
+ end
+ 
+ def
+ name
+ end
 
 end 
